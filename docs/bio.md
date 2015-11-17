@@ -1,5 +1,5 @@
-<h1>Git Hub Student
+###__Git Hub Student__
 
-1. Occupation: Analyst
-2. Atlanta, GA
-3. Java developer
+*Analyst
+*Atlanta, GA
+*Java developer
